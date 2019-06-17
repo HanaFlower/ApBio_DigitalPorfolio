@@ -1,0 +1,50 @@
+body{
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+#rowfooter{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    font-size: 20px
+}
+.rowcontact{
+    display:flex;
+    justify-content:space-around;
+}
+.rowfooter{
+    display:flex;
+    justify-content:center;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgb(255, 51, 204);
+}
+#main{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#main1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#main2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#summary{
+  font-size: 20px;
+}
+
