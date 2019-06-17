@@ -1,2 +1,2 @@
-# ApBio_DigialPorfolio
-Porfolio for AP Biology
+# ApBio_DigialPortfolio
+Portfolio for AP Biology
